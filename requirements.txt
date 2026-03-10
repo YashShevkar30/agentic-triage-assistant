@@ -1,0 +1,8 @@
+openai==1.12.0
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+structlog==24.1.0
+rich==13.7.0
+click==8.1.7
+pytest==8.0.1
