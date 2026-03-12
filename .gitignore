@@ -13,3 +13,7 @@ htmlcov/
 .vscode/
 *.log
 data/metrics.db
+
+# Editor files
+.vscode/
+.idea/
