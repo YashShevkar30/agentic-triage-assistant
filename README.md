@@ -64,3 +64,7 @@ pytest tests/ -v
 
 ## Architecture Notes
 Additional architecture documentation to be added here.
+
+
+## Contributing
+Contributions are welcome! Please open an issue first.
