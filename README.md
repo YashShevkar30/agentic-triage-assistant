@@ -61,3 +61,6 @@ pytest tests/ -v
    - `SearchTool`: Retrieves text chunks from known runbooks constraints.
 **3. Guardrails**: Redacts inputs and sanitizes SQL queries mid-flight.
 **4. Validator**: Final heuristic check of generated recommendations before returning to the user.
+
+## Architecture Notes
+Additional architecture documentation to be added here.
